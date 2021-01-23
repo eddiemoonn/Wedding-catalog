@@ -484,4 +484,8 @@ img{
     .home__img{
         right: 19%;
     }
+    .new__img{
+        width: 50%;
+    }
+    
 }
