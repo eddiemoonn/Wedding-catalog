@@ -70,6 +70,7 @@ a{
 img{
     max-width: 100%;
     height: auto;
+    
 }
 .section{
     padding: 3rem 0;
@@ -182,7 +183,7 @@ img{
     position: absolute;
     right: 0;
     bottom: 0;
-    width: 450px;
+    width: 260px;
 }
 
 /*Buttons*/
