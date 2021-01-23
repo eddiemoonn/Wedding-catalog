@@ -288,7 +288,7 @@ img{
 
 /*offers*/
 .offer__bg{
-    background: url('../Assets/img/new1.jpg') no-repeat center/cover;
+    background: url('../img/new1.jpg') no-repeat center/cover;
     text-align: center;
 }
 
