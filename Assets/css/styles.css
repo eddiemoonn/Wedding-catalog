@@ -319,7 +319,7 @@ img{
 .new__box{
     position: relative;
     display: flex;
-    justify-content: center;
+    justify-content: flex-start;
     background-color: var(--gray-color);
     overflow: hidden;
 }
